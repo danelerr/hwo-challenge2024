@@ -1,0 +1,15 @@
+{
+  "name": "backend-gatos-bajo-la-lluvia",
+  "version": "1.0.0",
+  "description": "a proyect for hwo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel cueto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
